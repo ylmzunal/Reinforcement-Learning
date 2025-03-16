@@ -2,7 +2,7 @@
 .DS_Store
 
 *.txt
-
+.ipynb_checkpoints/
 # Python compiled files
 __pycache__/
 *.pyc
